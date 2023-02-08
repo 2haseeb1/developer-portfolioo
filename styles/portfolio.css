@@ -75,8 +75,49 @@ margin-bottom: 30px;
     background-size: 40%,4.8%;
 }
 
+/* main-section */
+main{
+    max-width:990px;
+    margin: 0 auto;
+}
+
 /* about-section-styles */
 
+.about{
+text-align: center;
+margin-top:130px;
+border-radius: 10px;
+background: #FFF8F3;
+padding: 130px 150px;
+}
+.section-title{
+
+margin-bottom: 30px;
+font-size: 35px;
+font-weight: 700;
+}
+.section-description{
+color: #757575;
+font-weight: 400;
+font-size: 18px;
+margin-bottom: 30px;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    margin-right: 75px;
+    font-size: 20px;
+    color:#757575;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    color:#474747;
+    margin-left: -62px;
+}
 
 
 
